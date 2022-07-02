@@ -12,3 +12,16 @@ smunir2001@gmail.com | July 1, 2022
 ### Section 3 - Python Statements
 ### Section 4 - Methods & Functions
 ### Section 5 - Milestone Project I
+### Section 6 - Object Oriented Programming
+### Section 7 - Modules & Packages
+### Section 8 - Errors & Exceptions Handling
+### Section 9 - Milestone Project II
+### Section 10 - Python Decorators
+### Section 11 - Python Generators
+### Section 12 - Advanced Python Modules
+### Section 13 - Web Scraping with Python
+### Section 14 - Working with Images with Python
+### Section 15 - Working with PDFs & Spreadsheet CSV Files
+### Section 18 - Emails with Python
+### Section 19 - Final Capstone Python Project
+### Section 20 - Advanced Python Objects & Data Structures
