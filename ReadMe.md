@@ -10,5 +10,5 @@ smunir2001@gmail.com | July 1, 2022
 ### Section 1 - Introudction to Python Data Types
 ### Section 2 - Python Comparison Operators
 ### Section 3 - Python Statements
-### Section 6 - Methods & Functions
-### Section 7 - Milestone Project I
+### Section 4 - Methods & Functions
+### Section 5 - Milestone Project I
