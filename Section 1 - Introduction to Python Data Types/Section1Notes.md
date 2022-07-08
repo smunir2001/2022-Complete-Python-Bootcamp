@@ -57,3 +57,28 @@ start is a numerical index for the slice start.
 stop is the index you will go up to (but not include)
 
 step is the size of the "jump" you take.
+## Lists in Python
+Lists are __ordered sequences__ that can hold a __variety__ of object types.
+
+They use [] brackets and commas to separate objects in the list.
+* [1, 2, 3, 4, 5]
+
+Lists support indexing and slicing. Lists can be nested and also have a variety of useful methods that can be called off of them.
+## Dictionaries in Python
+Dictionaries are __unordered mappings__ for storing objects. Previously we saw how lists store objects in an ordered-sequence, dictionaries use a __key-value pairing__ instead.
+
+This key-value pair allows users to quickly grab objects without needing to know an index location.
+## Tuples in Python
+Tuples are very similar to lists. However, they have one key difference: immutability.
+
+Once an element is inside a tuple, it cannot be reassigned.
+
+Tuples use parenthesis: (1, 2, 3)
+## Sets in Python
+Sets are __unordered collections__ of __unique__ elements.
+
+Meaning there can only be one representative of the same object.
+## Booleans in Python
+Booleans are operators that allow you to convey True or False statements.
+
+These are very important later on when we deal with control flow and logic!
