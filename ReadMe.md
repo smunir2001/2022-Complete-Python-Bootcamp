@@ -8,7 +8,7 @@ smunir2001@gmail.com | July 1, 2022 | ReadMe.md
 * Great documentation online: docs.python.org/3
 ## Course Curriculum
 ### Section 1 - Introudction to Python Data Types
-* Numbers, Strings, Lists, Dictionaries, Tuples, Sets, Booleans
+* Numbers, Strings, Lists, Dictionaries, Tuples, Sets, Booleans, I/O Files
 ### Section 2 - Python Comparison Operators
 ### Section 3 - Python Statements
 ### Section 4 - Methods & Functions

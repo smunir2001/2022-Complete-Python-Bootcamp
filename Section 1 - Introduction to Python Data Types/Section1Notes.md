@@ -82,3 +82,13 @@ Meaning there can only be one representative of the same object.
 Booleans are operators that allow you to convey True or False statements.
 
 These are very important later on when we deal with control flow and logic!
+
+## I/O with Basic Files in Python
+```Python
+myFile = open('myFile.txt')
+```
+Reading, Writing, Appending Modes
+* mode = 'r' is read only
+* mode = 'w' is write only (will overwrite files or create new)
+* mode = 'r+' is reading & writing
+* mode = 'w+' is writing & reading (overwrites existing files or creates a new file)
