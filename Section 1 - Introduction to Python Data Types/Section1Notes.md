@@ -3,6 +3,14 @@ smunir2001@gmail.com | July 2, 2022 | Section1Notes.md
 ## Files included:
 * Numbers.py
 * Strings.py
+* Tuples.py
+* Sets.py
+* myNewFile.txt
+* myFile.txt
+* Lists.py
+* Files.py
+* Dictionaries.py
+* blah.txt
 
 | Name | Type | Description |
 |------|------|-------------|
