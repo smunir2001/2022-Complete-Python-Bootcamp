@@ -10,6 +10,7 @@ smunir2001@gmail.com | July 1, 2022 | ReadMe.md
 ### Section 1 - Introudction to Python Data Types
 * Numbers, Strings, Lists, Dictionaries, Tuples, Sets, Booleans, I/O Files
 ### Section 2 - Python Comparison Operators
+* Comparison operators, Chaining comparision operators
 ### Section 3 - Python Statements
 ### Section 4 - Methods & Functions
 ### Section 5 - Milestone Project I
