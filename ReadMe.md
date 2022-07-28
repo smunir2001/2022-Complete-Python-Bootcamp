@@ -12,6 +12,7 @@ smunir2001@gmail.com | July 1, 2022 | ReadMe.md
 ### Section 2 - Python Comparison Operators
 * Comparison operators, Chaining comparision operators
 ### Section 3 - Python Statements
+* If, Elif, and Else statements, for loops, while loops, useful operators in Python, list comprehensions
 ### Section 4 - Methods & Functions
 ### Section 5 - Milestone Project I
 ### Section 6 - Object Oriented Programming
