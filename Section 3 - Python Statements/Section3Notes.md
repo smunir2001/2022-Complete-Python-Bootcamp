@@ -36,3 +36,23 @@ my_iterable = [1, 2, 3]
 for item_name in my_iterable:
     print(item_name)
 ```
+## While loops
+While loops will continue to execute a block of code while some condition remains True.
+```Python
+while some_boolean_condition:
+    # do something
+else:
+    # do something different
+```
+__break, continue, pass__
+We can use break, continue, and pass statements in our loops to add additional functionality for various cases. The three statements are defined by:
+* __break:__ breaks out of the current closest enclosing loop.
+* __continue:__ goes to the top of the closest enclosing loop.
+* __pass:__ does nothing to all.
+## Useful operators
+```Python
+myList = [1, 2, 3]
+for num in range(10):
+    # generature numbers 0 - 10 (0 inclusive, 10 exclusive)
+    print(num)
+```
