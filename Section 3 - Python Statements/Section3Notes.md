@@ -56,3 +56,7 @@ for num in range(10):
     # generature numbers 0 - 10 (0 inclusive, 10 exclusive)
     print(num)
 ```
+## List comprehensions
+List comprehensions are a unique way of quickly creating a list with Python.
+
+If you find yourself using a for loop along with .append() to create a list, List comprehensions are a good alternative!
