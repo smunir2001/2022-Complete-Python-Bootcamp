@@ -2,7 +2,8 @@ smunir2001@gmail.com | July 30, 2022 | Section4Notes.md
 # Section 4 - Methods & Functions
 ## Files included:
 * Methods.py
-## Python Documentation
+* Functions.py
+## Python documentation
 [Python 3.6.4 Documentation](https://docs.python.org/3/)
 ```Python
 myList = [1, 2, 3]
@@ -12,7 +13,7 @@ print(myList)
 myList.pop()
 print(myList)
 ```
-## Introduction to Functions
+## Introduction to functions
 Creating clean repeatable code is a key part of becoming an effective programmer.
 
 __Functions__ allow us to create blocks of code that can be easily executed many times, without needing to constantly rewrite the entire block of code.
@@ -22,3 +23,14 @@ Functions will be a huge leap forward in your capabilities as a Python programme
 This means that the problems you are able to solve can also be a lot harder!
 ## __Def__ keyword
 Creating a function requires a very specific syntax, inncluding the __def__ keyword, correct indentation, and proper structure.
+```Python
+def name_of_function():
+    '''
+    Docstring explains function.
+    '''
+    print('Hello world')
+```
+Typically we use the __return__ keyword to send back the result of the function, instead of just printing it out.
+
+__Return__ allows us to assign the output of the function to a new variable.
+## Basics of Python functions
