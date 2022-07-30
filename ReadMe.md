@@ -14,6 +14,7 @@ smunir2001@gmail.com | July 1, 2022 | ReadMe.md
 ### Section 3 - Python Statements
 * If, Elif, and Else statements, for loops, while loops, useful operators in Python, list comprehensions
 ### Section 4 - Methods & Functions
+* Methods abd the Python documentation, Introduction to functions, __def__ keyword, Basics of Python functions, Tuple unpacking with Python functions, Interactions bewteen Python functions, __args__ and __kwargs__ in Python, Lambda expressions, map, and filter functions, Nested statements and scope
 ### Section 5 - Milestone Project I
 ### Section 6 - Object Oriented Programming
 ### Section 7 - Modules & Packages
