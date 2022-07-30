@@ -3,6 +3,7 @@ smunir2001@gmail.com | July 30, 2022 | Section4Notes.md
 ## Files included:
 * Methods.py
 * Functions.py
+* TupleUnpacking.py
 ## Python documentation
 [Python 3.6.4 Documentation](https://docs.python.org/3/)
 ```Python
@@ -21,7 +22,7 @@ __Functions__ allow us to create blocks of code that can be easily executed many
 Functions will be a huge leap forward in your capabilities as a Python programmer.
 
 This means that the problems you are able to solve can also be a lot harder!
-## __Def__ keyword
+## __Def__ keyword & functions
 Creating a function requires a very specific syntax, inncluding the __def__ keyword, correct indentation, and proper structure.
 ```Python
 def name_of_function():
@@ -33,4 +34,6 @@ def name_of_function():
 Typically we use the __return__ keyword to send back the result of the function, instead of just printing it out.
 
 __Return__ allows us to assign the output of the function to a new variable.
-## Basics of Python functions
+## Tuple unpacking with Python functions
+* Return multiple items from a function with tuple unpacking.
+* We can loop through a list of tuples and unpack the values within them.
