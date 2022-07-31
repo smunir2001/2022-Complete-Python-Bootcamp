@@ -37,3 +37,8 @@ __Return__ allows us to assign the output of the function to a new variable.
 ## Tuple unpacking with Python functions
 * Return multiple items from a function with tuple unpacking.
 * We can loop through a list of tuples and unpack the values within them.
+## __*args__ and __**kwargs__ in Python
+Functional parameters...
+* arguments
+* keyword arguments
+## Lambda expressions, Map, and Filter functions
